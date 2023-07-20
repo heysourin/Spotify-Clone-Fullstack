@@ -1,0 +1,4 @@
+1. page.tsx is the main page. delete everything inside 'main' tag.
+2. notice global.css for dark backround
+3. fonts changed from layout.css, from Figtree font.
+4. Learn react and TS in sidebar.tsx
